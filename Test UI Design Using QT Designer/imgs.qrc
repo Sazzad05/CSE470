@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>image/BRAC_University_logo.png</file>
+  </qresource>
+</RCC>
