@@ -1,0 +1,23 @@
+10 Front end CASE IDE:
+• Sublime Text 
+• Git Extensions
+• Vue.js 
+• Node package manager tool
+• Chrome developer tool
+• Sass
+• Ionic 2
+• Grunt
+• TypeScript
+• Meteor
+
+10 Back end CASE IDE:
+• Atom
+• Net Beans
+• Eclipse
+• Microsoft Visual Studio
+• Net Beans
+• Cloud9
+• Jetbrains
+• Linx 
+• CodePen
+• Visual Studio
